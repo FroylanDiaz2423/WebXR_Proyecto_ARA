@@ -1,2 +1,3 @@
 # WebXR_Proyecto_ARA
-Hi everyone, this proyect is for augmented reality 
+Connected Enterprise
+Hi everyone, this page is for watch Augmented Reality about my first proyect with the name "Project AR-A-P1C"
